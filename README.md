@@ -2,6 +2,11 @@
 
 Clean Next.js + React starter for a marketing agency website.
 
+## Project Context
+
+Before continuing work in a new Codex chat, read `PROJECT_CONTEXT.md`.
+It documents the visual direction, section structure, references, assets, and rules we follow while building this landing page.
+
 ## Getting Started
 
 Install dependencies:
